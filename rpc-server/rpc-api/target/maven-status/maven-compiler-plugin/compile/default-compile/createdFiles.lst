@@ -1,0 +1,4 @@
+com\lcwen\task\App.class
+com\lcwen\task\ILoginService.class
+com\lcwen\task\User.class
+com\lcwen\task\IHelloService.class
